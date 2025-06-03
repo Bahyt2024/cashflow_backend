@@ -14,7 +14,7 @@ DB_HOST=localhost
 DB_PORT=5432
 
 EMAIL_HOST_USER=example@gmail.com
-EMAIL_HOST_PASSWORD=your-email-password
+EMAIL_HOST_PASSWORD=your-email-password(Нужен пароль приложений)
 
 
 pip install -r requirements.txt
